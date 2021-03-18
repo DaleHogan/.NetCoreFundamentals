@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbI97GHfUpxaZF7ShMxKVpAraExsOI5HuqNDCXk3R2wBHv0wqGuRBCGW1TnRsKZnaoVGv/debefbwn6USfrZEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flash Gordon\\Documents\\Visual Studio 2019\\Projects\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flash Gordon\\.nuget\\packages\\bootstrap\\4.6.0\\bootstrap.4.6.0.nupkg.sha512",
+    "C:\\Users\\Flash Gordon\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
+    "C:\\Users\\Flash Gordon\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\Flash Gordon\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

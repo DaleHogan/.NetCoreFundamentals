@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Flash Gordon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Flash Gordon\\.nuget\\packages"
+    ]
+  }
+}
